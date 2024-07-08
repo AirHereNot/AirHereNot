@@ -1,7 +1,7 @@
 ## About me 👋
 
-- 🔭 I'm working on TES, an email builder for professionals in any industry.
-- 🌱 I'm currently learning coding and API management.
+- 🔭 I'm working on TES, an email builder for all professionals.
+- 🌱 I'm currently learning how to code and API management.
 - 👯 I'm looking to collaborate on design work.
 - 🤔 I'm looking for help with software building.
 - 💬 Ask me about Peruvian food; I'm no expert, but I love to chat about it.
