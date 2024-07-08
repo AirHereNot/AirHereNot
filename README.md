@@ -1,10 +1,5 @@
 ## About me 👋
 
-
-**AirHereNot/AirHereNot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm working on TES, an email builder for professionals in any industry.
 - 🌱 I'm currently learning coding and API management.
 - 👯 I'm looking to collaborate on design work.
